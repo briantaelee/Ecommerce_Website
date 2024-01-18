@@ -1,8 +1,12 @@
-# React + Vite
+# Volleyball Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+The motive behind this project was to build a website that allows the user to purchase a variety of volleyball equipment. 
 
-Currently, two official plugins are available:
+## Installation
+1. Clone from repository
+2. Open folder with visual studio code or any text editor of choice.
+3. Run "npm i" to install packages
+4. Run "npm run dev" to start application
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Alt text](<src/assets/products/Volleyball Store.png>)
